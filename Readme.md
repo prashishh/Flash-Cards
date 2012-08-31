@@ -4,7 +4,7 @@ Flash Card Builder using Java.
 
 Note: I'm still building this stuff. I'll update you after phase 1 is complete.
 <br>
-<u><b>Completed<b><u>br>
+<u><b>Completed<b><u><br>
 Store and List Words/Meaning.<br>
 Add New Meanings.<br>
 
