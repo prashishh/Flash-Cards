@@ -2,7 +2,7 @@
 
 Flash Card Builder using Java.
 
-I'm currently preparing for my GRE so I thought of building a customizable flash card for storing words that I learnt and then memorizing with Flash Card Feature. ;) <br><br>
+I'm currently preparing for my GRE so I thought of building a customizable flash card for noting the words that I learnt and then memorizing them with Flash Card. ;) <br><br>
 
 Note: I'm still building this stuff. I wrote this in less than an hour as I reused most of the codes from my previous projects. I'll update you after Flash Card Feature is complete.<br>
 'til then 
