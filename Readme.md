@@ -11,7 +11,7 @@ Note: I'm still building this stuff. I wrote this in less than an hour as I reus
 <u><b>Completed<b><u><br>
 Store and List Words/Meaning.<br>
 Add New Meanings.<br>
-Edit/Delete Exisitng words<br>
+Delete Exisitng words<br>
 
 <br>
 <br>
