@@ -1,13 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/*
- * FlashCardsGUI.java
- *
- * Created on Aug 31, 2012, 9:23:03 PM
- */
 package flash.cards;
 
 import java.util.Collections;
