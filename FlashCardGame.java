@@ -1,13 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/*
- * FlashCardGame.java
- *
- * Created on Sep 1, 2012, 7:19:05 PM
- */
 package flash.cards;
 
 import java.util.Vector;
