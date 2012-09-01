@@ -37,4 +37,10 @@ public class FlashCards {
         fl.insertInfile(word + ";" + meaning + ";" + info + "\n");
         return true;
     }
+    
+    //Delete Word from the list
+    public boolean DeleteWord ( String word ) {
+        fl.deletedata(word);
+        return true;
+    }
 }
